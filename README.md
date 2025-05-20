@@ -27,7 +27,7 @@ MemeGen是XYBotV2、xxxBot信机器人的一个表情包生成插件，可以在
 
 1. 安装meme-generator库：
    ```
-   pip install  meme_generator=0.1.11
+   pip install meme_generator==0.1.11
    ```
 
 2. 下载表情资源：
